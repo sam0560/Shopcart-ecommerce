@@ -1,0 +1,21 @@
+{
+  "name": "shopcart",
+  "version": "1.0.0",
+  "description": "full ecommerce site",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "dev" : "SET NODE_ENV=DEVELOPMETN& nodemon backend/server",
+    "prod" : "SET NODE_ENV=PRODUCTION& nodemon backend/server"
+  },
+  "author": "Kaysam",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^8.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
