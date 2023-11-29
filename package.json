@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "start": "node backend/server.js",
-    "dev" : "SET NODE_ENV=DEVELOPMETN& nodemon backend/server",
+    "dev" : "SET NODE_ENV=DEVELOPMENT& nodemon backend/server",
     "prod" : "SET NODE_ENV=PRODUCTION& nodemon backend/server"
   },
   "author": "Kaysam",
