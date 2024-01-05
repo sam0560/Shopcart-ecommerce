@@ -1,7 +1,7 @@
 [
     {
         "name": "Sony High-Speed 64GB SDXC Memory Card - Class 10",
-        "price": "$39.99",
+        "price": 39.99,
         "description": "High-speed memory card for capturing moments with exceptional clarity and speed. Class 10 technology ensures smooth data transfer.",
         "rating": 4.7,
         "images": [
@@ -16,7 +16,7 @@
     },
     {
         "name": "Samsung EVO 256GB MicroSDXC Memory Card with Adapter",
-        "price": "$59.95",
+        "price": 59.95,
         "description": "Expand your device's storage with this high-capacity microSDXC card. Comes with an adapter for versatile use across devices.",
         "rating": 4.6,
         "images": [
@@ -31,7 +31,7 @@
     },
     {
         "name": "Lexar Professional 32GB CompactFlash (CF) Memory Card",
-        "price": "$34.99",
+        "price": 34.99,
         "description": "Ideal for professional photographers, this CompactFlash card offers high-speed data transfer and reliable performance.",
         "rating": 4.8,
         "images": [
@@ -46,7 +46,7 @@
     },
     {
         "name": "Kingston Digital 128GB USB 3.0 DataTraveler Flash Drive",
-        "price": "$49.99",
+        "price": 49.99,
         "description": "Portable and high-capacity USB flash drive for easy data storage and transfer. USB 3.0 ensures fast read and write speeds.",
         "rating": 4.5,
         "images": [
@@ -61,7 +61,7 @@
     },
     {
         "name": "PNY Elite-X 64GB Class 10 UHS-I SDXC Memory Card",
-        "price": "$29.95",
+        "price": 29.95,
         "description": "High-performance SDXC memory card designed for capturing high-quality photos and videos. Class 10 for rapid data transfer.",
         "rating": 4.4,
         "images": [
@@ -76,7 +76,7 @@
     },
     {
         "name": "SanDisk Cruzer Glide 256GB USB 2.0 Flash Drive",
-        "price": "$42.50",
+        "price": 42.50,
         "description": "Reliable USB flash drive with ample storage space. Perfect for storing documents, photos, and videos with ease.",
         "rating": 4.6,
         "images": [
@@ -91,7 +91,7 @@
     },
     {
         "name": "Transcend 64GB SDHC Class 10 UHS-I Memory Card",
-        "price": "$31.99",
+        "price": 31.99,
         "description": "Secure high-capacity storage for your digital devices. Class 10 technology ensures rapid data transfer for smooth performance.",
         "rating": 4.7,
         "images": [
@@ -106,7 +106,7 @@
     },
     {
         "name": "Samsung FIT Plus 128GB USB 3.1 Flash Drive",
-        "price": "$54.95",
+        "price": 54.95,
         "description": "Ultra-compact USB flash drive with high-speed data transfer capabilities. Easily fits into laptops, TVs, and car audio systems.",
         "rating": 4.5,
         "images": [
@@ -121,7 +121,7 @@
     },
     {
         "name": "ADATA Premier ONE 256GB SDXC UHS-II U3 Memory Card",
-        "price": "$69.99",
+        "price": 69.99,
         "description": "Cutting-edge SDXC card with UHS-II U3 technology for professional photographers and videographers. Offers high-speed data transfer.",
         "rating": 4.8,
         "images": [
@@ -136,7 +136,7 @@
     },
     {
         "name": "Lexar JumpDrive S75 32GB USB 3.0 Flash Drive",
-        "price": "$27.50",
+        "price": 27.50,
         "description": "Stylish and reliable USB flash drive with USB 3.0 technology for faster data transfer. Ideal for everyday use and on-the-go storage.",
         "rating": 4.4,
         "images": [
